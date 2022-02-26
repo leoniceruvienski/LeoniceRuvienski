@@ -17,7 +17,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px !important;" src="https://lh3.googleusercontent.com/proxy/hhUPVHa7OTjsBCmtke6ytAbh_Q91ejJVXgi6nzSRU5DXg9rc3hCERb3QKo_aEa9OQ2MTEj3HAxtG0yDShUXXyafZPCLdiL-liH5bYkgO7Lw3nXJHFQ8Fx7ykcQ=w1200-h630-p-k-no-nu">
+  <img align="right" alt="pic" height="150" style="border-radius:50px !important;" src="https://lh3.google.com/u/0/d/1WBPTvY0rK0cbgQAUXobbIKqsWQYXAmUy=w1366-h564-iv1">
 </div>
   
   ##
