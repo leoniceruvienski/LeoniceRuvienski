@@ -17,7 +17,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px !important;" src="https://lh3.googleusercontent.com/fife/AAWUweW4cJwpcmsVw_cKr0UJlScN2yzbBTXi4yMouoay1Olmo2H3fn9XlXFgIvB-f39uQccK9wnqBaZE4uSHy7NTYOjeLZPlUf5IG2O-R5He_-rikNqe8yMF-YPaXLEu8frBppbJR99CQter1LN6_Tr3bJLbaqE6Jzdo7M19yUCy-ZqEGK8DNVvCuMBLWxEMLfTF9Ik2rAe_tuw0eLkbX_nyxo2lCUJS0McPtjG8XBCgDWhz5sGO5Ubm6QM0y3WBzWcK_fy1f2Udz1WE-QzMYTwNmeJhuQgQH-3j2On_kRxhVYR0VA1sdfbCRISU0mNNZUhOI29o7h6fKREBLOtDToez-A566gjvhCtcIPYm5J2m0KbMoW9K5i5b3flYA72Ww1RJGWVfj0i-GpJmd-mYGZO5PuhmxrShjReRClJ0HB_zVrcy7o4R2GavJ2CLjex_HegzxNgP_hMMkLOsRDVk8KZmTDv9fWMhJ8rzbG-kImrr7pWK0qjylUr7VU1tb50wffFJyFZ6EIcZWqLZHufCyGD7OVtmJh1xmgTmafc92y___0ILDn2YQEv1JY9pL2eJYE8lg04WCB4XXPcWRD2h5G5JOdMwZUcosK41tAWTH1uo1MFTl5IIYoskihc3WPEfbboWZK0IhNdi1nOWxFc5Mml_tKGswrQFzgr-_64cNEtBH0TYGLdn5ZNDtjwwgJU644XQL3M4Bgv24ASdHwYE0hOhc0uaMlV0KZbYUQ=w1366-h564">
+  <img align="right" alt="pic" height="150" style="border-radius:50px !important;" src="https://github.com/leoniceruvienski/leoniceruvienski/blob/main/PFL.png?raw=true">
 </div>
   
   ##
