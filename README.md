@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Leonice Ruvienski
 
-- 🌱 Estudando javaScript, css e html
-- ❤️ Meu marido está me ensinando!
+- 👩‍🎓 Estudando JAVASCRIPT, TYPESCRIPT, CSS3, HTML e REACT-NATIVE.
+- ❤️  Meu marido está me ensinando!
 - 😄 Estou feliz por estar aprendendo.
 
 <div align="center">
